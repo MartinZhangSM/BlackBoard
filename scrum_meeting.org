@@ -1,0 +1,29 @@
+#+DATE:2017-05-04 8:00
+#+TITLE:第一次冲刺计划会
+
+
+** 做基于学院的BB还是基于学校的BB
+   /结论：做基于学校的/
+** 需求分析
+   汇总结果:https://github.com/tzaiyang/BlackBoard/blob/master/requirement/scrum_plans.org
+   有补充的请自行提交到github或发到群里
+** 具体分工
+| 成员 | 分工  |
+|------+-------|
+| 张   | M模型 |
+| 丁   | M模型 |
+| 唐   | M模型 |
+| 敖   | v视图 |
+| 黄   | v视图 |
+| 王   | C控制 |
+| 周   | C控制 |
+
+** 小目标（截止2017-05-9）
+| 模块 | 目标                |
+|------+---------------------|
+| M    | 建立数据库          |
+| V    | 初版UI+两个静态页面 |
+| C    | 登录功能            |
+
+具体安排见计划表:https://github.com/tzaiyang/BlackBoard/blob/master/plans/plans.org   
+
