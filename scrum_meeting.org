@@ -5,7 +5,7 @@
 ** 做基于学院的BB还是基于学校的BB
    /结论：做基于学校的/
 ** 需求分析
-   汇总结果:https://github.com/tzaiyang/BlackBoard/blob/master/requirement/scrum_plans.org
+   汇总结果:https://github.com/tzaiyang/BlackBoard/blob/master/plans/plans.org
    有补充的请自行提交到github或发到群里
 ** 具体分工
 | 成员 | 分工  |
@@ -25,5 +25,5 @@
 | V    | 初版UI+两个静态页面 |
 | C    | 登录功能            |
 
-具体安排见计划表:https://github.com/tzaiyang/BlackBoard/blob/master/plans/plans.org   
+具体安排见计划表:https://github.com/tzaiyang/BlackBoard/blob/master/requirement/%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.org
 
